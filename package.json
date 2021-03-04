@@ -1,7 +1,7 @@
 {
-  "name": "react-jvectormap",
-  "version": "0.0.16",
-  "description": "A jvectormap wrapper for React apps",
+  "name": "@nexxt-intelligence/react-jvectormap",
+  "version": "0.0.4",
+  "description": "A jvectormap wrapper for React (16+) apps",
   "main": "build/index.js",
   "scripts": {
     "start": "node scripts/start.js",
@@ -10,13 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kadoshms/react-jvectormap.git"
+    "url": "git+https://github.com/nexxt-intelligence/react-jvectormap"
   },
   "author": "Mor Kadosh <kadoshms@gmail.com>",
+  "contributors": ["Nexxt Intelligence <josh@nexxt.in>"],
   "bugs": {
-    "url": "https://github.com/kadoshms/react-jvectormap/issues"
+    "url": "https://github.com/nexxt-intelligence/react-jvectormap/issues"
   },
-  "homepage": "https://github.com/kadoshms/react-jvectormap",
+  "homepage": "https://github.com/nexxt-intelligence/react-jvectormap",
   "license": "MIT",
   "devDependencies": {
     "autoprefixer": "7.1.2",
