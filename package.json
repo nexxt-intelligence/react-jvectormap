@@ -1,12 +1,13 @@
 {
   "name": "@nexxt-intelligence/react-jvectormap",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A jvectormap wrapper for React (16+) apps",
   "main": "build/index.js",
   "scripts": {
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
-    "test": "node scripts/test.js --env=jsdom"
+    "test": "node scripts/test.js --env=jsdom",
+    "prepublish": "npm run build"
   },
   "repository": {
     "type": "git",
