@@ -1,6 +1,6 @@
 {
   "name": "@nexxt-intelligence/react-jvectormap",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A jvectormap wrapper for React (16+) apps",
   "main": "build/index.js",
   "scripts": {
